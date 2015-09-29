@@ -1,6 +1,4 @@
-/**
- * Created by milenkagutierrez on 9/29/2015.
- */
+
 var Biography = require('./getBio.js')
 
 describe('Biography', function(){

@@ -1,6 +1,4 @@
-/**
- * Created by milenkagutierrez on 9/29/2015.
- */
+
 var getBio = function(name, age){
     if(name === undefined || age === undefined)
         throw 'Need name and age to provide a biography.'

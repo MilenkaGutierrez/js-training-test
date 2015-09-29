@@ -1,6 +1,4 @@
-/**
- * Created by milenkagutierrez on 9/29/2015.
- */
+
 var sampleForm = require('./SampleForm.js');
 var WebDriver = require('selenium-webdriver');
 var By = WebDriver.By;
